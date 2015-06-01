@@ -20,7 +20,6 @@ class MAN(object):
 這是 2015CDA 協同專案下的 cdag7模組下的 MAN 類別.<br /><br />
 <!-- 這裡採用相對連結, 而非網址的絕對連結 (這一段為 html 註解) -->
 <a href="assembly">執行  body</a><br /><br />
-<a href="">執行  hand</a><br /><br />
 請確定下列零件於 V:/home/lego/man 目錄中, 且開啟空白 Creo 組立檔案.<br />
 <a href="/static/lego_man.7z">lego_man.7z</a>(滑鼠右鍵存成 .7z 檔案)<br />
 '''
